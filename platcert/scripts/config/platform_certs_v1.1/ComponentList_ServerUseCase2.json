@@ -1,0 +1,268 @@
+{
+  "PLATFORM": {
+    "PLATFORMMANUFACTURERSTR": "Sample Platform Manufacturer",
+    "PLATFORMMANUFACTURERID": "1.3.6.1.4.1.32473",
+    "PLATFORMMODEL": "Sample Platform Model",
+    "PLATFORMVERSION": "Sample Platform Version",
+    "PLATFORMSERIAL": "Sample Platform Serial 9"
+  },
+  "COMPONENTS": [
+    {
+      "COMPONENTCLASS": {
+        "COMPONENTCLASSREGISTRY": "2.23.133.18.3.1",
+        "COMPONENTCLASSVALUE": "00060000"
+      },
+      "MANUFACTURER": "Sample Memory Manufacturer",
+      "MODEL": "Sample Memory Model",
+      "SERIAL": "Sample Memory Serial Number 1",
+      "REVISION": "Sample Memory Revision",
+      "MANUFACTURERID": "1.3.6.1.4.1.32473",
+      "FIELDREPLACEABLE": "true",
+      "STATUS": "ADDED"
+    },
+    {
+      "COMPONENTCLASS": {
+        "COMPONENTCLASSREGISTRY": "2.23.133.18.3.1",
+        "COMPONENTCLASSVALUE": "00060000"
+      },
+      "MANUFACTURER": "Sample Memory Manufacturer",
+      "MODEL": "Sample Memory Model",
+      "SERIAL": "Sample Memory Serial Number 2",
+      "REVISION": "Sample Memory Revision",
+      "MANUFACTURERID": "1.3.6.1.4.1.32473",
+      "FIELDREPLACEABLE": "true",
+      "STATUS": "ADDED"
+    },
+    {
+      "COMPONENTCLASS": {
+        "COMPONENTCLASSREGISTRY": "2.23.133.18.3.1",
+        "COMPONENTCLASSVALUE": "00060000"
+      },
+      "MANUFACTURER": "Sample Memory Manufacturer",
+      "MODEL": "Sample Memory Model",
+      "SERIAL": "Sample Memory Serial Number 3",
+      "REVISION": "Sample Memory Revision",
+      "MANUFACTURERID": "1.3.6.1.4.1.32473",
+      "FIELDREPLACEABLE": "true",
+      "STATUS": "ADDED"
+    },
+    {
+      "COMPONENTCLASS": {
+        "COMPONENTCLASSREGISTRY": "2.23.133.18.3.1",
+        "COMPONENTCLASSVALUE": "00060000"
+      },
+      "MANUFACTURER": "Sample Memory Manufacturer",
+      "MODEL": "Sample Memory Model",
+      "SERIAL": "Sample Memory Serial Number 4",
+      "REVISION": "Sample Memory Revision",
+      "MANUFACTURERID": "1.3.6.1.4.1.32473",
+      "FIELDREPLACEABLE": "true",
+      "STATUS": "ADDED"
+    },
+    {
+      "COMPONENTCLASS": {
+        "COMPONENTCLASSREGISTRY": "2.23.133.18.3.1",
+        "COMPONENTCLASSVALUE": "00060000"
+      },
+      "MANUFACTURER": "Sample Memory Manufacturer",
+      "MODEL": "Sample Memory Model",
+      "SERIAL": "Sample Memory Serial Number 5",
+      "REVISION": "Sample Memory Revision",
+      "MANUFACTURERID": "1.3.6.1.4.1.32473",
+      "FIELDREPLACEABLE": "true",
+      "STATUS": "ADDED"
+    },
+    {
+      "COMPONENTCLASS": {
+        "COMPONENTCLASSREGISTRY": "2.23.133.18.3.1",
+        "COMPONENTCLASSVALUE": "00060000"
+      },
+      "MANUFACTURER": "Sample Memory Manufacturer",
+      "MODEL": "Sample Memory Model",
+      "SERIAL": "Sample Memory Serial Number 6",
+      "REVISION": "Sample Memory Revision",
+      "MANUFACTURERID": "1.3.6.1.4.1.32473",
+      "FIELDREPLACEABLE": "true",
+      "STATUS": "ADDED"
+    },
+    {
+      "COMPONENTCLASS": {
+        "COMPONENTCLASSREGISTRY": "2.23.133.18.3.1",
+        "COMPONENTCLASSVALUE": "00060000"
+      },
+      "MANUFACTURER": "Sample Memory Manufacturer",
+      "MODEL": "Sample Memory Model",
+      "SERIAL": "Sample Memory Serial Number 7",
+      "REVISION": "Sample Memory Revision",
+      "MANUFACTURERID": "1.3.6.1.4.1.32473",
+      "FIELDREPLACEABLE": "true",
+      "STATUS": "ADDED"
+    },
+    {
+      "COMPONENTCLASS": {
+        "COMPONENTCLASSREGISTRY": "2.23.133.18.3.1",
+        "COMPONENTCLASSVALUE": "00060000"
+      },
+      "MANUFACTURER": "Sample Memory Manufacturer",
+      "MODEL": "Sample Memory Model",
+      "SERIAL": "Sample Memory Serial Number 8",
+      "REVISION": "Sample Memory Revision",
+      "MANUFACTURERID": "1.3.6.1.4.1.32473",
+      "FIELDREPLACEABLE": "true",
+      "STATUS": "ADDED"
+    },
+    {
+      "COMPONENTCLASS": {
+        "COMPONENTCLASSREGISTRY": "2.23.133.18.3.1",
+        "COMPONENTCLASSVALUE": "00070000"
+      },
+      "MANUFACTURER": "Sample Storage Manufacturer",
+      "MODEL": "Sample Storage Model",
+      "SERIAL": "Sample Storage Serial Number",
+      "REVISION": "Sample Storage Revision",
+      "MANUFACTURERID": "1.3.6.1.4.1.32473",
+      "FIELDREPLACEABLE": "false",
+      "STATUS": "ADDED"
+    },
+    {
+      "COMPONENTCLASS": {
+        "COMPONENTCLASSREGISTRY": "2.23.133.18.3.1",
+        "COMPONENTCLASSVALUE": "00090000"
+      },
+      "MANUFACTURER": "Sample NIC Manufacturer",
+      "MODEL": "Sample NIC Model",
+      "SERIAL": "Sample NIC Serial Number",
+      "REVISION": "Sample NIC Revision",
+      "MANUFACTURERID": "1.3.6.1.4.1.32473",
+      "FIELDREPLACEABLE": "true",
+      "ADDRESSES": [
+        {
+          "ETHERNETMAC": "8289FAD36100"
+        },
+        {
+          "WLANMAC": "D483B4F27800"
+        },
+        {
+          "BLUETOOTHMAC": "B27E04662000"
+        }
+      ],
+      "STATUS": "ADDED"
+    },
+    {
+      "COMPONENTCLASS": {
+        "COMPONENTCLASSREGISTRY": "2.23.133.18.3.1",
+        "COMPONENTCLASSVALUE": "00070003"
+      },
+      "MANUFACTURER": "Sample SSD Manufacturer",
+      "MODEL": "Sample SSD Model",
+      "SERIAL": "Sample SSD Serial Number 1",
+      "REVISION": "Sample SSD Revision",
+      "MANUFACTURERID": "1.3.6.1.4.1.32473",
+      "FIELDREPLACEABLE": "true",
+      "STATUS": "ADDED"
+    },
+    {
+      "COMPONENTCLASS": {
+        "COMPONENTCLASSREGISTRY": "2.23.133.18.3.1",
+        "COMPONENTCLASSVALUE": "00070003"
+      },
+      "MANUFACTURER": "Sample SSD Manufacturer",
+      "MODEL": "Sample SSD Model",
+      "SERIAL": "Sample SSD Serial Number 2",
+      "REVISION": "Sample SSD Revision",
+      "MANUFACTURERID": "1.3.6.1.4.1.32473",
+      "FIELDREPLACEABLE": "true",
+      "STATUS": "ADDED"
+    },
+    {
+      "COMPONENTCLASS": {
+        "COMPONENTCLASSREGISTRY": "2.23.133.18.3.1",
+        "COMPONENTCLASSVALUE": "00070003"
+      },
+      "MANUFACTURER": "Sample SSD Manufacturer",
+      "MODEL": "Sample SSD Model",
+      "SERIAL": "Sample SSD Serial Number 3",
+      "REVISION": "Sample SSD Revision",
+      "MANUFACTURERID": "1.3.6.1.4.1.32473",
+      "FIELDREPLACEABLE": "true",
+      "STATUS": "ADDED"
+    },
+    {
+      "COMPONENTCLASS": {
+        "COMPONENTCLASSREGISTRY": "2.23.133.18.3.1",
+        "COMPONENTCLASSVALUE": "00070003"
+      },
+      "MANUFACTURER": "Sample SSD Manufacturer",
+      "MODEL": "Sample SSD Model",
+      "SERIAL": "Sample SSD Serial Number 4",
+      "REVISION": "Sample SSD Revision",
+      "MANUFACTURERID": "1.3.6.1.4.1.32473",
+      "FIELDREPLACEABLE": "true",
+      "STATUS": "ADDED"
+    },
+    {
+      "COMPONENTCLASS": {
+        "COMPONENTCLASSREGISTRY": "2.23.133.18.3.1",
+        "COMPONENTCLASSVALUE": "00070003"
+      },
+      "MANUFACTURER": "Sample SSD Manufacturer",
+      "MODEL": "Sample SSD Model",
+      "SERIAL": "Sample SSD Serial Number 5",
+      "REVISION": "Sample SSD Revision",
+      "MANUFACTURERID": "1.3.6.1.4.1.32473",
+      "FIELDREPLACEABLE": "true",
+      "STATUS": "ADDED"
+    },
+    {
+      "COMPONENTCLASS": {
+        "COMPONENTCLASSREGISTRY": "2.23.133.18.3.1",
+        "COMPONENTCLASSVALUE": "00070003"
+      },
+      "MANUFACTURER": "Sample SSD Manufacturer",
+      "MODEL": "Sample SSD Model",
+      "SERIAL": "Sample SSD Serial Number 6",
+      "REVISION": "Sample SSD Revision",
+      "MANUFACTURERID": "1.3.6.1.4.1.32473",
+      "FIELDREPLACEABLE": "true",
+      "STATUS": "ADDED"
+    },
+    {
+      "COMPONENTCLASS": {
+        "COMPONENTCLASSREGISTRY": "2.23.133.18.3.1",
+        "COMPONENTCLASSVALUE": "00070003"
+      },
+      "MANUFACTURER": "Sample SSD Manufacturer",
+      "MODEL": "Sample SSD Model",
+      "SERIAL": "Sample SSD Serial Number 7",
+      "REVISION": "Sample SSD Revision",
+      "MANUFACTURERID": "1.3.6.1.4.1.32473",
+      "FIELDREPLACEABLE": "true",
+      "STATUS": "ADDED"
+    },
+    {
+      "COMPONENTCLASS": {
+        "COMPONENTCLASSREGISTRY": "2.23.133.18.3.1",
+        "COMPONENTCLASSVALUE": "00070003"
+      },
+      "MANUFACTURER": "Sample SSD Manufacturer",
+      "MODEL": "Sample SSD Model",
+      "SERIAL": "Sample SSD Serial Number 8",
+      "REVISION": "Sample SSD Revision",
+      "MANUFACTURERID": "1.3.6.1.4.1.32473",
+      "FIELDREPLACEABLE": "true",
+      "STATUS": "ADDED"
+    }
+  ],
+  "COMPONENTSURI": {
+    "UNIFORMRESOURCEIDENTIFIER": "https://www.example.invalid/components.json"
+  },
+  "PROPERTIES": [
+    {
+      "PROPERTYNAME": "Test",
+      "PROPERTYVALUE": "This a TCG Test Platform Certificate."
+    }
+  ],
+  "PROPERTIESURI": {
+    "UNIFORMRESOURCEIDENTIFIER": "https://www.example.invalid/properties.json"
+  }
+}
